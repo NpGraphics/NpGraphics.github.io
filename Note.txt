@@ -1,0 +1,3 @@
+Dont forget to update txt files
+#ab1c1c - red rgb code - main
+#04AA6D - green rgb code
